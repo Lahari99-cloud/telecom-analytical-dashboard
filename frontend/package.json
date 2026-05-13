@@ -1,0 +1,21 @@
+{
+  "name": "telecom-intelligence-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "axios": "latest",
+    "chart.js": "latest",
+    "react-chartjs-2": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}

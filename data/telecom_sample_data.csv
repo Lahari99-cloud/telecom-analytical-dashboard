@@ -1,0 +1,11 @@
+region,segment,product,month,revenue,churn,arpu,nps,latency,risk
+East,Enterprise,Fiber Pro,Jan,420000,0.18,142,61,28,0.36
+East,SMB,5G Business,Feb,455000,0.21,118,58,31,0.42
+West,Enterprise,Cloud Connect,Mar,610000,0.12,168,70,22,0.27
+West,Consumer,5G Unlimited,Apr,390000,0.27,96,53,35,0.55
+South,SMB,SD-WAN Lite,May,510000,0.25,121,56,38,0.61
+South,Enterprise,Dedicated Internet,Jun,575000,0.16,152,66,26,0.31
+North,Consumer,Home Fiber,Jul,350000,0.30,89,49,42,0.68
+North,SMB,Business Broadband,Aug,465000,0.24,112,55,36,0.57
+Central,Enterprise,MPLS Premium,Sep,705000,0.10,188,74,20,0.23
+Central,SMB,Cyber Secure Connect,Oct,540000,0.20,135,63,27,0.39

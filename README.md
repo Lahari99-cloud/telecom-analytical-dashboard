@@ -100,19 +100,4 @@ Try these in the UI:
 
 ---
 
-## GitHub Push (if needed)
 
-If your repository is already initialized locally:
-
-```powershell
-git branch -M main
-git remote add origin https://github.com/Lahari99-cloud/telecom-intelligence-assistant.git
-git push -u origin main
-```
-
-If `origin` already exists and you need to update it:
-
-```powershell
-git remote set-url origin https://github.com/Lahari99-cloud/telecom-intelligence-assistant.git
-git push -u origin main
-```
